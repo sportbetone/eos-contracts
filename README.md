@@ -1,2 +1,1 @@
-# eos-contracts
-open source EOS contracts
+Open source EOS contracts of SportBet.one
