@@ -1,1 +1,1 @@
-Open source EOS contracts of https://SportBet.one
+Open source EOS contracts of decentralized crypto and bitcoin betting platform https://SportBet.one
