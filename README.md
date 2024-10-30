@@ -1,1 +1,1 @@
-Open source EOS contracts of SportBet.one
+Open source EOS contracts of https://SportBet.one
